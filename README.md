@@ -9,7 +9,7 @@
 
   <h2 align="center">Emoji Feedback Component</h2>
 
-  In this project, I have created an Emoji Feedback Component, The project is built using HTML5 & CSS3.
+  In this project, I have created an Emoji Feedback Component, The project is built using HTML5, CSS3 & JavaScript.
 
   <a href="https://geeky-prashant.github.io/emoji-feedback-component/"><strong>➥ Live Demo</strong></a>
 
